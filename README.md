@@ -32,9 +32,10 @@ When the command is successful, open your web browser and type in the following 
 
 http://localhost:8080/
 
-#### It will look something like this. Type in your texts as shown above and check their similarity
+#### It will look something like this. Type in your texts as shown below and check their similarity
 
 ![](flask_run.gif)
 
 ### Docker Repository link: https://hub.docker.com/r/pmadan3/fetch-similarity/builds
 
+### 2) Running via GitHub pull
