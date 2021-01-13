@@ -5,11 +5,11 @@ This challenge will focus on the similarity between two texts. Your objective is
 
 ### 1) Running via Docker Hub
 
-Step 1. Download and install Docker for desktop: https://www.docker.com/products/docker-desktop
+#### Step 1. Download and install Docker for desktop: https://www.docker.com/products/docker-desktop
 
 Installation video: https://www.youtube.com/watch?v=LtooWDUL1Js&ab_channel=NRDYTech
 
-Step 2. Running Fetch Rewards Coding Exercise
+#### Step 2. Running Fetch Rewards Coding Exercise
 
 Once the installation is complete. Open terminal / command-prompt and type in the following command:
 
@@ -32,9 +32,9 @@ When the command is successful, open your web browser and type in the following 
 
 http://localhost:8080/
 
-It will look something like this.
+#### It will look something like this. Type in your texts as shown above and check their similarity
 
 ![](flask_run.gif)
 
-Docker container link: https://hub.docker.com/r/pmadan3/fetch-similarity/builds
+### Docker Repository link: https://hub.docker.com/r/pmadan3/fetch-similarity/builds
 
