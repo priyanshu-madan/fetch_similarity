@@ -17,5 +17,15 @@ Once the installation is complete. Open terminal / command-prompt and type in th
 docker pull pmadan3/fetch-similarity
 ```
 
+It will look something like this
+
+![](docker_pull.gif)
+
+Next, we want to run the pulled docker container. Type in the following command:
+
+```cmd
+docker run --rm -p 8080:8080 pmadan3/fetch-similarity
+```
+
 Docker container link: https://hub.docker.com/r/pmadan3/fetch-similarity/builds
 
