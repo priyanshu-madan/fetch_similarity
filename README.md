@@ -39,3 +39,17 @@ http://localhost:8080/
 ### Docker Repository link: https://hub.docker.com/r/pmadan3/fetch-similarity/builds
 
 ### 2) Running via GitHub pull
+
+Open Terminal in a directory (I am opening mine in a Pycharm project).
+
+In the terminal type the following commands one by one:
+
+```cmd
+git clone https://github.com/priyanshu-madan/fetch_similarity.git
+cd fetch_similarity
+pip install -r requirements.txt
+python flask_page.py
+```
+Click on the link generated after the run as shown below. 
+
+
