@@ -50,6 +50,8 @@ cd fetch_similarity
 pip install -r requirements.txt
 python flask_page.py
 ```
-Click on the link generated after the run as shown below. 
+Click on the link generated after the run as shown below:
+
+![](git_clone.gif)
 
 
