@@ -26,7 +26,7 @@ Next, we want to run the pulled docker container. Type in the following command:
 ```cmd
 docker run --rm -p 8080:8080 pmadan3/fetch-similarity
 ```
-![](docker_run.gif)
+![](readme_gifs/docker_run.gif)
 
 When the command is successful, open your web browser and type in the following URL:
 
@@ -34,7 +34,7 @@ http://localhost:8080/
 
 #### It will look something like this. Type in your texts as shown below and check their similarity
 
-![](flask_run.gif)
+![](readme_gifs/flask_run.gif)
 
 ### Docker Repository link: https://hub.docker.com/r/pmadan3/fetch-similarity/builds
 
@@ -52,6 +52,6 @@ python flask_page.py
 ```
 Click on the link generated after the run as shown below:
 
-![](git_clone.gif)
+![](readme_gifs/git_clone.gif)
 
 
