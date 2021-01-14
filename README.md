@@ -19,7 +19,7 @@ docker pull pmadan3/fetch-similarity
 
 It will look something like this
 
-![](docker_pull.gif)
+![](readme_gifs/docker_pull.gif)
 
 Next, we want to run the pulled docker container. Type in the following command:
 
