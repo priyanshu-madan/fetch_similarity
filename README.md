@@ -1,5 +1,5 @@
-# Fetch Rewards Coding Exercise - Data Engineer
-This challenge will focus on the similarity between two texts. Your objective is to write a program that takes as inputs two texts and uses a metric to determine how similar they are. Documents that are exactly the same should get a score of 1, and documents that don’t have any words in common should get a score of 0.
+# Text Similarity Detection
+Find the similarity between two texts. This program that takes two texts as inputs and uses a metric to determine how similar they are. Documents that are exactly the same should get a score of 1, and documents that don’t have any words in common should get a score of 0.
 
 ## Installation process
 
@@ -86,9 +86,6 @@ You need to make sure that the previous container you launched is killed, before
 docker container ls
 docker rm -f <container-name>
 ```
-
-#### 7) When can you start?
-As soon as possible!
 
 #### 8) Where can I read more about you?
 On my medium page: https://medium.com/priyanshumadan
