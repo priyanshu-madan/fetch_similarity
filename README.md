@@ -1,5 +1,5 @@
 # Text Similarity Detection
-Find the similarity between two texts. This program that takes two texts as inputs and uses a metric to determine how similar they are. Documents that are exactly the same should get a score of 1, and documents that don’t have any words in common should get a score of 0.
+Find the similarity between the two texts. This program takes two texts as inputs and uses a metric to determine how similar they are. Documents that are exactly the same should get a score of 1, and documents that don’t have any words in common should get a score of 0.
 
 ## Installation process
 
@@ -87,7 +87,7 @@ docker container ls
 docker rm -f <container-name>
 ```
 
-#### 8) Where can I read more about you?
+#### 7) Where can I read more about you?
 On my medium page: https://medium.com/priyanshumadan
 
 Also, on my LinkedIn profile: https://www.linkedin.com/in/priyanshumadan/
